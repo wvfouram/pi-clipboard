@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+<defs>
+<linearGradient id="linear-pattern-0" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="16" y2="16" gradientTransform="matrix(4, 0, 0, 4, 0, 0)">
+<stop offset="0" stop-color="rgb(33%, 80%, 100%)" stop-opacity="1"/>
+<stop offset="1" stop-color="rgb(0%, 42%, 85%)" stop-opacity="1"/>
+</linearGradient>
+</defs>
+<path fill-rule="nonzero" fill="url(#linear-pattern-0)" d="M 46 8.800781 C 50.417969 8.800781 54 12.382812 54 16.800781 L 54 52.800781 C 54 57.21875 50.417969 60.800781 46 60.800781 L 18 60.800781 C 13.582031 60.800781 10 57.21875 10 52.800781 L 10 16.800781 C 10 12.382812 13.582031 8.800781 18 8.800781 Z M 46 8.800781 "/>
+<path fill-rule="nonzero" fill="rgb(93%, 95%, 98%)" fill-opacity="1" d="M 39.199219 4 C 41.410156 4 43.199219 5.789062 43.199219 8 L 43.199219 12 C 43.199219 14.210938 41.410156 16 39.199219 16 L 24.800781 16 C 22.589844 16 20.800781 14.210938 20.800781 12 L 20.800781 8 C 20.800781 5.789062 22.589844 4 24.800781 4 Z M 39.199219 4 "/>
+<path fill="none" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="miter" stroke="rgb(100%, 100%, 100%)" stroke-opacity="0.95" stroke-miterlimit="10" d="M 5 7 L 11 7 " transform="matrix(4, 0, 0, 4, 0, 0)"/>
+<path fill="none" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="miter" stroke="rgb(100%, 100%, 100%)" stroke-opacity="0.95" stroke-miterlimit="10" d="M 5 9.5 L 11 9.5 " transform="matrix(4, 0, 0, 4, 0, 0)"/>
+<path fill="none" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="miter" stroke="rgb(100%, 100%, 100%)" stroke-opacity="0.95" stroke-miterlimit="10" d="M 5 12 L 9 12 " transform="matrix(4, 0, 0, 4, 0, 0)"/>
+</svg>
